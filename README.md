@@ -103,7 +103,7 @@
 
 ```bash
 # 📥 Clone the repository
-git clone https://github.com/Cheptoo-dev/PLP-MAIN-PROJECT.git
+git clone https://github.com/Cheptoo-dev/THE-FX-PROJECT.git
 cd trading-journal
 ```
 
